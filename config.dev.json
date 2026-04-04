@@ -29,11 +29,11 @@
     "61568791604271"
   ],
   "developer": [
-    "61580333625022",
+    "61577528921641",
     "61568791604271"
   ],
   "vipuser": [
-    "61580333625022",
+    "61577528921641",
     "61568791604271"
   ],
   "reactBy": {
@@ -45,7 +45,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "۝𝐶𝐻𝑅𝐼𝑆𝑇𝑈𝑆۝",
+  "nickNameBot": "ᎷᎨᎽᏬᏦᎨ",
   "prefix": "¥",
   "database": {
     "type": "mongodb",
