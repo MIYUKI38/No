@@ -25,12 +25,12 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61577528921641",
-    "61577528921641"
+    "61578464043852",
+    "61578464043852"
   ],
   "developer": [
-    "61577528921641",
-    "61577528921641"
+    "61578464043852",
+    "61578464043852"
   ],
   "vipuser": [
     "61580333625022",
@@ -45,8 +45,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "MIYUKI",
-  "prefix": "¥",
+  "nickNameBot": "ᎷᎨᎽᏬᏦᎨ ᎻᎨᎷᎯᏒᎨ",
+  "prefix": "™",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://Christus:voldigo225@cluster0.gykt2by.mongodb.net/?appName=Cluster0",
